@@ -1,0 +1,513 @@
+signal_t,numsig_ratio,num_PvsN,t-1vst,OCt-1Over1p,target,position_type,metric,value
+n,Under20p,moreN,diff,under1p,2to9,양방향,양쪽 다 털기,13.6463
+n,Under20p,moreN,diff,under1p,2to9,양방향,양쪽 부분 털기,5.1746
+n,Under20p,moreN,diff,under1p,2to9,양방향,횡보,25.8054
+n,Under20p,moreN,diff,under1p,2to9,양방향,한쪽 박살,31.5499
+n,Under20p,moreN,diff,under1p,2to9,롱,완전 익절,43.7764
+n,Under20p,moreN,diff,under1p,2to9,롱,부분 익절,14.2326
+n,Under20p,moreN,diff,under1p,2to9,롱,손실 전체,41.991
+n,Under20p,moreN,diff,under1p,2to9,롱,익절선보다 큰 손실,16.0773
+n,Under20p,moreN,diff,under1p,2to9,롱,손실 평균,-2.0684
+n,Under20p,moreN,diff,under1p,2to9,롱,손실 중위값,-1.4762
+n,Under20p,moreN,diff,under1p,2to9,숏,완전 익절,44.0645
+n,Under20p,moreN,diff,under1p,2to9,숏,부분 익절,14.3919
+n,Under20p,moreN,diff,under1p,2to9,숏,손실 전체,41.5436
+n,Under20p,moreN,diff,under1p,2to9,숏,익절선보다 큰 손실,15.4726
+n,Under20p,moreN,diff,under1p,2to9,숏,손실 평균,2.2054
+n,Under20p,moreN,diff,under1p,2to9,숏,손실 중위값,1.4122
+n,Under20p,moreN,diff,over1p,2to9,양방향,양쪽 다 털기,23.266
+n,Under20p,moreN,diff,over1p,2to9,양방향,양쪽 부분 털기,4.9944
+n,Under20p,moreN,diff,over1p,2to9,양방향,횡보,15.3949
+n,Under20p,moreN,diff,over1p,2to9,양방향,한쪽 박살,35.1529
+n,Under20p,moreN,diff,over1p,2to9,롱,완전 익절,51.8659
+n,Under20p,moreN,diff,over1p,2to9,롱,부분 익절,6.9317
+n,Under20p,moreN,diff,over1p,2to9,롱,손실 전체,41.2024
+n,Under20p,moreN,diff,over1p,2to9,롱,익절선보다 큰 손실,20.6057
+n,Under20p,moreN,diff,over1p,2to9,롱,손실 평균,-2.6599
+n,Under20p,moreN,diff,over1p,2to9,롱,손실 중위값,-2.0
+n,Under20p,moreN,diff,over1p,2to9,숏,완전 익절,56.0051
+n,Under20p,moreN,diff,over1p,2to9,숏,부분 익절,12.0057
+n,Under20p,moreN,diff,over1p,2to9,숏,손실 전체,31.9892
+n,Under20p,moreN,diff,over1p,2to9,숏,익절선보다 큰 손실,14.5472
+n,Under20p,moreN,diff,over1p,2to9,숏,손실 평균,3.0248
+n,Under20p,moreN,diff,over1p,2to9,숏,손실 중위값,1.7307
+n,Under20p,moreN,same,under1p,2to9,양방향,양쪽 다 털기,11.6272
+n,Under20p,moreN,same,under1p,2to9,양방향,양쪽 부분 털기,4.4282
+n,Under20p,moreN,same,under1p,2to9,양방향,횡보,27.2622
+n,Under20p,moreN,same,under1p,2to9,양방향,한쪽 박살,31.6961
+n,Under20p,moreN,same,under1p,2to9,롱,완전 익절,42.448
+n,Under20p,moreN,same,under1p,2to9,롱,부분 익절,15.7239
+n,Under20p,moreN,same,under1p,2to9,롱,손실 전체,41.8281
+n,Under20p,moreN,same,under1p,2to9,롱,익절선보다 큰 손실,15.6177
+n,Under20p,moreN,same,under1p,2to9,롱,손실 평균,-1.9375
+n,Under20p,moreN,same,under1p,2to9,롱,손실 중위값,-1.3815
+n,Under20p,moreN,same,under1p,2to9,숏,완전 익절,41.9171
+n,Under20p,moreN,same,under1p,2to9,숏,부분 익절,13.2515
+n,Under20p,moreN,same,under1p,2to9,숏,손실 전체,44.8314
+n,Under20p,moreN,same,under1p,2to9,숏,익절선보다 큰 손실,16.0783
+n,Under20p,moreN,same,under1p,2to9,숏,손실 평균,1.9642
+n,Under20p,moreN,same,under1p,2to9,숏,손실 중위값,1.3104
+n,Under20p,moreN,same,over1p,2to9,양방향,양쪽 다 털기,26.5219
+n,Under20p,moreN,same,over1p,2to9,양방향,양쪽 부분 털기,4.8154
+n,Under20p,moreN,same,over1p,2to9,양방향,횡보,10.9822
+n,Under20p,moreN,same,over1p,2to9,양방향,한쪽 박살,36.4304
+n,Under20p,moreN,same,over1p,2to9,롱,완전 익절,56.9689
+n,Under20p,moreN,same,over1p,2to9,롱,부분 익절,7.2925
+n,Under20p,moreN,same,over1p,2to9,롱,손실 전체,35.7386
+n,Under20p,moreN,same,over1p,2to9,롱,익절선보다 큰 손실,19.2318
+n,Under20p,moreN,same,over1p,2to9,롱,손실 평균,-2.9467
+n,Under20p,moreN,same,over1p,2to9,롱,손실 중위값,-2.1277
+n,Under20p,moreN,same,over1p,2to9,숏,완전 익절,58.5708
+n,Under20p,moreN,same,over1p,2to9,숏,부분 익절,7.5008
+n,Under20p,moreN,same,over1p,2to9,숏,손실 전체,33.9284
+n,Under20p,moreN,same,over1p,2to9,숏,익절선보다 큰 손실,17.1985
+n,Under20p,moreN,same,over1p,2to9,숏,손실 평균,2.9794
+n,Under20p,moreN,same,over1p,2to9,숏,손실 중위값,2.0375
+n,Under20p,moreP,diff,under1p,2to9,양방향,양쪽 다 털기,18.8154
+n,Under20p,moreP,diff,under1p,2to9,양방향,양쪽 부분 털기,5.5465
+n,Under20p,moreP,diff,under1p,2to9,양방향,횡보,20.0098
+n,Under20p,moreP,diff,under1p,2to9,양방향,한쪽 박살,33.2624
+n,Under20p,moreP,diff,under1p,2to9,롱,완전 익절,47.8403
+n,Under20p,moreP,diff,under1p,2to9,롱,부분 익절,10.8475
+n,Under20p,moreP,diff,under1p,2to9,롱,손실 전체,41.3122
+n,Under20p,moreP,diff,under1p,2to9,롱,익절선보다 큰 손실,18.3737
+n,Under20p,moreP,diff,under1p,2to9,롱,손실 평균,-2.3489
+n,Under20p,moreP,diff,under1p,2to9,롱,손실 중위값,-1.7332
+n,Under20p,moreP,diff,under1p,2to9,숏,완전 익절,50.9653
+n,Under20p,moreP,diff,under1p,2to9,숏,부분 익절,12.7291
+n,Under20p,moreP,diff,under1p,2to9,숏,손실 전체,36.3056
+n,Under20p,moreP,diff,under1p,2to9,숏,익절선보다 큰 손실,14.8887
+n,Under20p,moreP,diff,under1p,2to9,숏,손실 평균,2.6168
+n,Under20p,moreP,diff,under1p,2to9,숏,손실 중위값,1.5485
+n,Under20p,moreP,diff,over1p,2to9,양방향,양쪽 다 털기,30.0065
+n,Under20p,moreP,diff,over1p,2to9,양방향,양쪽 부분 털기,4.9376
+n,Under20p,moreP,diff,over1p,2to9,양방향,횡보,11.521
+n,Under20p,moreP,diff,over1p,2to9,양방향,한쪽 박살,34.3846
+n,Under20p,moreP,diff,over1p,2to9,롱,완전 익절,55.9591
+n,Under20p,moreP,diff,over1p,2to9,롱,부분 익절,5.2213
+n,Under20p,moreP,diff,over1p,2to9,롱,손실 전체,38.8195
+n,Under20p,moreP,diff,over1p,2to9,롱,익절선보다 큰 손실,20.6178
+n,Under20p,moreP,diff,over1p,2to9,롱,손실 평균,-2.9862
+n,Under20p,moreP,diff,over1p,2to9,롱,손실 중위값,-2.1605
+n,Under20p,moreP,diff,over1p,2to9,숏,완전 익절,62.5263
+n,Under20p,moreP,diff,over1p,2to9,숏,부분 익절,10.0373
+n,Under20p,moreP,diff,over1p,2to9,숏,손실 전체,27.4364
+n,Under20p,moreP,diff,over1p,2to9,숏,익절선보다 큰 손실,13.7668
+n,Under20p,moreP,diff,over1p,2to9,숏,손실 평균,3.5511
+n,Under20p,moreP,diff,over1p,2to9,숏,손실 중위값,2.0055
+n,Under20p,moreP,same,under1p,2to9,양방향,양쪽 다 털기,18.6126
+n,Under20p,moreP,same,under1p,2to9,양방향,양쪽 부분 털기,4.8622
+n,Under20p,moreP,same,under1p,2to9,양방향,횡보,20.3314
+n,Under20p,moreP,same,under1p,2to9,양방향,한쪽 박살,33.5398
+n,Under20p,moreP,same,under1p,2to9,롱,완전 익절,48.2812
+n,Under20p,moreP,same,under1p,2to9,롱,부분 익절,11.3503
+n,Under20p,moreP,same,under1p,2to9,롱,손실 전체,40.3685
+n,Under20p,moreP,same,under1p,2to9,롱,익절선보다 큰 손실,17.9158
+n,Under20p,moreP,same,under1p,2to9,롱,손실 평균,-2.2597
+n,Under20p,moreP,same,under1p,2to9,롱,손실 중위값,-1.6985
+n,Under20p,moreP,same,under1p,2to9,숏,완전 익절,50.0
+n,Under20p,moreP,same,under1p,2to9,숏,부분 익절,11.8303
+n,Under20p,moreP,same,under1p,2to9,숏,손실 전체,38.1697
+n,Under20p,moreP,same,under1p,2to9,숏,익절선보다 큰 손실,15.624
+n,Under20p,moreP,same,under1p,2to9,숏,손실 평균,2.3648
+n,Under20p,moreP,same,under1p,2to9,숏,손실 중위값,1.5474
+n,Under20p,moreP,same,over1p,2to9,양방향,양쪽 다 털기,34.5015
+n,Under20p,moreP,same,over1p,2to9,양방향,양쪽 부분 털기,4.3981
+n,Under20p,moreP,same,over1p,2to9,양방향,횡보,7.85
+n,Under20p,moreP,same,over1p,2to9,양방향,한쪽 박살,34.4664
+n,Under20p,moreP,same,over1p,2to9,롱,완전 익절,60.8376
+n,Under20p,moreP,same,over1p,2to9,롱,부분 익절,4.6434
+n,Under20p,moreP,same,over1p,2to9,롱,손실 전체,34.519
+n,Under20p,moreP,same,over1p,2to9,롱,익절선보다 큰 손실,19.9054
+n,Under20p,moreP,same,over1p,2to9,롱,손실 평균,-3.3505
+n,Under20p,moreP,same,over1p,2to9,롱,손실 중위값,-2.4345
+n,Under20p,moreP,same,over1p,2to9,숏,완전 익절,65.8139
+n,Under20p,moreP,same,over1p,2to9,숏,부분 익절,6.7987
+n,Under20p,moreP,same,over1p,2to9,숏,손실 전체,27.3874
+n,Under20p,moreP,same,over1p,2to9,숏,익절선보다 큰 손실,14.5611
+n,Under20p,moreP,same,over1p,2to9,숏,손실 평균,3.8124
+n,Under20p,moreP,same,over1p,2to9,숏,손실 중위값,2.1358
+n,Over20p,moreN,diff,under1p,2to9,양방향,양쪽 다 털기,17.71
+n,Over20p,moreN,diff,under1p,2to9,양방향,양쪽 부분 털기,5.479
+n,Over20p,moreN,diff,under1p,2to9,양방향,횡보,19.6916
+n,Over20p,moreN,diff,under1p,2to9,양방향,한쪽 박살,33.878
+n,Over20p,moreN,diff,under1p,2to9,롱,완전 익절,50.2034
+n,Over20p,moreN,diff,under1p,2to9,롱,부분 익절,15.2362
+n,Over20p,moreN,diff,under1p,2to9,롱,손실 전체,34.5604
+n,Over20p,moreN,diff,under1p,2to9,롱,익절선보다 큰 손실,13.9633
+n,Over20p,moreN,diff,under1p,2to9,롱,손실 평균,-2.372
+n,Over20p,moreN,diff,under1p,2to9,롱,손실 중위값,-1.5139
+n,Over20p,moreN,diff,under1p,2to9,숏,완전 익절,47.815
+n,Over20p,moreN,diff,under1p,2to9,숏,부분 익절,8.399
+n,Over20p,moreN,diff,under1p,2to9,숏,손실 전체,43.7861
+n,Over20p,moreN,diff,under1p,2to9,숏,익절선보다 큰 손실,19.9147
+n,Over20p,moreN,diff,under1p,2to9,숏,손실 평균,2.5904
+n,Over20p,moreN,diff,under1p,2to9,숏,손실 중위값,1.7588
+n,Over20p,moreN,diff,over1p,2to9,양방향,양쪽 다 털기,29.4763
+n,Over20p,moreN,diff,over1p,2to9,양방향,양쪽 부분 털기,6.6961
+n,Over20p,moreN,diff,over1p,2to9,양방향,횡보,8.6755
+n,Over20p,moreN,diff,over1p,2to9,양방향,한쪽 박살,35.4372
+n,Over20p,moreN,diff,over1p,2to9,롱,완전 익절,68.2954
+n,Over20p,moreN,diff,over1p,2to9,롱,부분 익절,8.0308
+n,Over20p,moreN,diff,over1p,2to9,롱,손실 전체,23.6738
+n,Over20p,moreN,diff,over1p,2to9,롱,익절선보다 큰 손실,12.5551
+n,Over20p,moreN,diff,over1p,2to9,롱,손실 평균,-3.1655
+n,Over20p,moreN,diff,over1p,2to9,롱,손실 중위값,-2.1882
+n,Over20p,moreN,diff,over1p,2to9,숏,완전 익절,52.5054
+n,Over20p,moreN,diff,over1p,2to9,숏,부분 익절,6.4585
+n,Over20p,moreN,diff,over1p,2to9,숏,손실 전체,41.0361
+n,Over20p,moreN,diff,over1p,2to9,숏,익절선보다 큰 손실,22.882
+n,Over20p,moreN,diff,over1p,2to9,숏,손실 평균,3.7165
+n,Over20p,moreN,diff,over1p,2to9,숏,손실 중위값,2.3633
+n,Over20p,moreN,same,under1p,2to9,양방향,양쪽 다 털기,13.3891
+n,Over20p,moreN,same,under1p,2to9,양방향,양쪽 부분 털기,4.5559
+n,Over20p,moreN,same,under1p,2to9,양방향,횡보,27.7808
+n,Over20p,moreN,same,under1p,2to9,양방향,한쪽 박살,32.3579
+n,Over20p,moreN,same,under1p,2to9,롱,완전 익절,44.1567
+n,Over20p,moreN,same,under1p,2to9,롱,부분 익절,19.0961
+n,Over20p,moreN,same,under1p,2to9,롱,손실 전체,36.7472
+n,Over20p,moreN,same,under1p,2to9,롱,익절선보다 큰 손실,13.8222
+n,Over20p,moreN,same,under1p,2to9,롱,손실 평균,-2.2729
+n,Over20p,moreN,same,under1p,2to9,롱,손실 중위값,-1.4286
+n,Over20p,moreN,same,under1p,2to9,숏,완전 익절,41.4516
+n,Over20p,moreN,same,under1p,2to9,숏,부분 익절,10.9112
+n,Over20p,moreN,same,under1p,2to9,숏,손실 전체,47.6372
+n,Over20p,moreN,same,under1p,2to9,숏,익절선보다 큰 손실,18.5357
+n,Over20p,moreN,same,under1p,2to9,숏,손실 평균,2.1646
+n,Over20p,moreN,same,under1p,2to9,숏,손실 중위값,1.5426
+n,Over20p,moreN,same,over1p,2to9,양방향,양쪽 다 털기,25.2977
+n,Over20p,moreN,same,over1p,2to9,양방향,양쪽 부분 털기,4.3378
+n,Over20p,moreN,same,over1p,2to9,양방향,횡보,11.8089
+n,Over20p,moreN,same,over1p,2to9,양방향,한쪽 박살,41.7206
+n,Over20p,moreN,same,over1p,2to9,롱,완전 익절,65.9316
+n,Over20p,moreN,same,over1p,2to9,롱,부분 익절,9.2552
+n,Over20p,moreN,same,over1p,2to9,롱,손실 전체,24.8132
+n,Over20p,moreN,same,over1p,2to9,롱,익절선보다 큰 손실,12.1485
+n,Over20p,moreN,same,over1p,2to9,롱,손실 평균,-3.0052
+n,Over20p,moreN,same,over1p,2to9,롱,손실 중위값,-1.9172
+n,Over20p,moreN,same,over1p,2to9,숏,완전 익절,47.5572
+n,Over20p,moreN,same,over1p,2to9,숏,부분 익절,5.7143
+n,Over20p,moreN,same,over1p,2to9,숏,손실 전체,46.7285
+n,Over20p,moreN,same,over1p,2to9,숏,익절선보다 큰 손실,29.5721
+n,Over20p,moreN,same,over1p,2to9,숏,손실 평균,4.2529
+n,Over20p,moreN,same,over1p,2to9,숏,손실 중위값,2.8983
+n,Over20p,moreP,diff,under1p,2to9,양방향,양쪽 다 털기,30.7692
+n,Over20p,moreP,diff,under1p,2to9,양방향,양쪽 부분 털기,7.6923
+n,Over20p,moreP,diff,under1p,2to9,양방향,횡보,9.6154
+n,Over20p,moreP,diff,under1p,2to9,양방향,한쪽 박살,36.5385
+n,Over20p,moreP,diff,under1p,2to9,롱,완전 익절,65.3846
+n,Over20p,moreP,diff,under1p,2to9,롱,부분 익절,9.6154
+n,Over20p,moreP,diff,under1p,2to9,롱,손실 전체,25.0
+n,Over20p,moreP,diff,under1p,2to9,롱,익절선보다 큰 손실,13.4615
+n,Over20p,moreP,diff,under1p,2to9,롱,손실 평균,-3.3535
+n,Over20p,moreP,diff,under1p,2to9,롱,손실 중위값,-2.1789
+n,Over20p,moreP,diff,under1p,2to9,숏,완전 익절,55.7692
+n,Over20p,moreP,diff,under1p,2to9,숏,부분 익절,5.7692
+n,Over20p,moreP,diff,under1p,2to9,숏,손실 전체,38.4615
+n,Over20p,moreP,diff,under1p,2to9,숏,익절선보다 큰 손실,23.0769
+n,Over20p,moreP,diff,under1p,2to9,숏,손실 평균,4.5112
+n,Over20p,moreP,diff,under1p,2to9,숏,손실 중위값,2.5918
+n,Over20p,moreP,diff,over1p,2to9,양방향,양쪽 다 털기,41.8803
+n,Over20p,moreP,diff,over1p,2to9,양방향,양쪽 부분 털기,5.5556
+n,Over20p,moreP,diff,over1p,2to9,양방향,횡보,3.4188
+n,Over20p,moreP,diff,over1p,2to9,양방향,한쪽 박살,39.3162
+n,Over20p,moreP,diff,over1p,2to9,롱,완전 익절,79.9145
+n,Over20p,moreP,diff,over1p,2to9,롱,부분 익절,3.4188
+n,Over20p,moreP,diff,over1p,2to9,롱,손실 전체,16.6667
+n,Over20p,moreP,diff,over1p,2to9,롱,익절선보다 큰 손실,9.4017
+n,Over20p,moreP,diff,over1p,2to9,롱,손실 평균,-4.2805
+n,Over20p,moreP,diff,over1p,2to9,롱,손실 중위값,-2.8323
+n,Over20p,moreP,diff,over1p,2to9,숏,완전 익절,58.547
+n,Over20p,moreP,diff,over1p,2to9,숏,부분 익절,5.1282
+n,Over20p,moreP,diff,over1p,2to9,숏,손실 전체,36.3248
+n,Over20p,moreP,diff,over1p,2to9,숏,익절선보다 큰 손실,29.9145
+n,Over20p,moreP,diff,over1p,2to9,숏,손실 평균,6.2561
+n,Over20p,moreP,diff,over1p,2to9,숏,손실 중위값,4.8803
+n,Over20p,moreP,same,under1p,2to9,양방향,양쪽 다 털기,25.5639
+n,Over20p,moreP,same,under1p,2to9,양방향,양쪽 부분 털기,6.7669
+n,Over20p,moreP,same,under1p,2to9,양방향,횡보,12.0301
+n,Over20p,moreP,same,under1p,2to9,양방향,한쪽 박살,43.609
+n,Over20p,moreP,same,under1p,2to9,롱,완전 익절,71.4286
+n,Over20p,moreP,same,under1p,2to9,롱,부분 익절,9.0226
+n,Over20p,moreP,same,under1p,2to9,롱,손실 전체,19.5489
+n,Over20p,moreP,same,under1p,2to9,롱,익절선보다 큰 손실,10.5263
+n,Over20p,moreP,same,under1p,2to9,롱,손실 평균,-3.6118
+n,Over20p,moreP,same,under1p,2to9,롱,손실 중위값,-2.2574
+n,Over20p,moreP,same,under1p,2to9,숏,완전 익절,42.1053
+n,Over20p,moreP,same,under1p,2to9,숏,부분 익절,6.015
+n,Over20p,moreP,same,under1p,2to9,숏,손실 전체,51.8797
+n,Over20p,moreP,same,under1p,2to9,숏,익절선보다 큰 손실,33.0827
+n,Over20p,moreP,same,under1p,2to9,숏,손실 평균,3.7043
+n,Over20p,moreP,same,under1p,2to9,숏,손실 중위값,2.9043
+n,Over20p,moreP,same,over1p,2to9,양방향,양쪽 다 털기,30.9091
+n,Over20p,moreP,same,over1p,2to9,양방향,양쪽 부분 털기,4.3182
+n,Over20p,moreP,same,over1p,2to9,양방향,횡보,5.9091
+n,Over20p,moreP,same,over1p,2to9,양방향,한쪽 박살,47.2727
+n,Over20p,moreP,same,over1p,2to9,롱,완전 익절,79.5455
+n,Over20p,moreP,same,over1p,2to9,롱,부분 익절,7.7273
+n,Over20p,moreP,same,over1p,2to9,롱,손실 전체,12.7273
+n,Over20p,moreP,same,over1p,2to9,롱,익절선보다 큰 손실,7.7273
+n,Over20p,moreP,same,over1p,2to9,롱,손실 평균,-4.1839
+n,Over20p,moreP,same,over1p,2to9,롱,손실 중위값,-3.2114
+n,Over20p,moreP,same,over1p,2to9,숏,완전 익절,45.4545
+n,Over20p,moreP,same,over1p,2to9,숏,부분 익절,2.0455
+n,Over20p,moreP,same,over1p,2to9,숏,손실 전체,52.5
+n,Over20p,moreP,same,over1p,2to9,숏,익절선보다 큰 손실,39.5455
+n,Over20p,moreP,same,over1p,2to9,숏,손실 평균,9.1479
+n,Over20p,moreP,same,over1p,2to9,숏,손실 중위값,3.8622
+p,Under20p,moreN,diff,under1p,2to9,양방향,양쪽 다 털기,19.4105
+p,Under20p,moreN,diff,under1p,2to9,양방향,양쪽 부분 털기,5.035
+p,Under20p,moreN,diff,under1p,2to9,양방향,횡보,17.661
+p,Under20p,moreN,diff,under1p,2to9,양방향,한쪽 박살,35.6067
+p,Under20p,moreN,diff,under1p,2to9,롱,완전 익절,46.0206
+p,Under20p,moreN,diff,under1p,2to9,롱,부분 익절,6.8616
+p,Under20p,moreN,diff,under1p,2to9,롱,손실 전체,47.1178
+p,Under20p,moreN,diff,under1p,2to9,롱,익절선보다 큰 손실,23.0933
+p,Under20p,moreN,diff,under1p,2to9,롱,손실 평균,-2.5032
+p,Under20p,moreN,diff,under1p,2to9,롱,손실 중위값,-1.95
+p,Under20p,moreN,diff,under1p,2to9,숏,완전 익절,55.7289
+p,Under20p,moreN,diff,under1p,2to9,숏,부분 익절,14.1561
+p,Under20p,moreN,diff,under1p,2to9,숏,손실 전체,30.1151
+p,Under20p,moreN,diff,under1p,2to9,숏,익절선보다 큰 손실,12.5133
+p,Under20p,moreN,diff,under1p,2to9,숏,손실 평균,2.6941
+p,Under20p,moreN,diff,under1p,2to9,숏,손실 중위값,1.491
+p,Under20p,moreN,diff,over1p,2to9,양방향,양쪽 다 털기,35.5228
+p,Under20p,moreN,diff,over1p,2to9,양방향,양쪽 부분 털기,4.1015
+p,Under20p,moreN,diff,over1p,2to9,양방향,횡보,5.7766
+p,Under20p,moreN,diff,over1p,2to9,양방향,한쪽 박살,37.8782
+p,Under20p,moreN,diff,over1p,2to9,롱,완전 익절,59.2284
+p,Under20p,moreN,diff,over1p,2to9,롱,부분 익절,3.8477
+p,Under20p,moreN,diff,over1p,2to9,롱,손실 전체,36.9239
+p,Under20p,moreN,diff,over1p,2to9,롱,익절선보다 큰 손실,24.3655
+p,Under20p,moreN,diff,over1p,2to9,롱,손실 평균,-3.8721
+p,Under20p,moreN,diff,over1p,2to9,롱,손실 중위값,-3.0011
+p,Under20p,moreN,diff,over1p,2to9,숏,완전 익절,70.5178
+p,Under20p,moreN,diff,over1p,2to9,숏,부분 익절,5.4315
+p,Under20p,moreN,diff,over1p,2to9,숏,손실 전체,24.0508
+p,Under20p,moreN,diff,over1p,2to9,숏,익절선보다 큰 손실,13.5127
+p,Under20p,moreN,diff,over1p,2to9,숏,손실 평균,4.1555
+p,Under20p,moreN,diff,over1p,2to9,숏,손실 중위값,2.2977
+p,Under20p,moreN,same,under1p,2to9,양방향,양쪽 다 털기,21.2219
+p,Under20p,moreN,same,under1p,2to9,양방향,양쪽 부분 털기,5.6742
+p,Under20p,moreN,same,under1p,2to9,양방향,횡보,16.8485
+p,Under20p,moreN,same,under1p,2to9,양방향,한쪽 박살,35.7607
+p,Under20p,moreN,same,under1p,2to9,롱,완전 익절,46.9453
+p,Under20p,moreN,same,under1p,2to9,롱,부분 익절,6.5038
+p,Under20p,moreN,same,under1p,2to9,롱,손실 전체,46.5509
+p,Under20p,moreN,same,under1p,2to9,롱,익절선보다 큰 손실,23.3369
+p,Under20p,moreN,same,under1p,2to9,롱,손실 평균,-2.5665
+p,Under20p,moreN,same,under1p,2to9,롱,손실 중위값,-2.0063
+p,Under20p,moreN,same,under1p,2to9,숏,완전 익절,57.4282
+p,Under20p,moreN,same,under1p,2to9,숏,부분 익절,14.6822
+p,Under20p,moreN,same,under1p,2to9,숏,손실 전체,27.8896
+p,Under20p,moreN,same,under1p,2to9,숏,익절선보다 큰 손실,12.4238
+p,Under20p,moreN,same,under1p,2to9,숏,손실 평균,3.1797
+p,Under20p,moreN,same,under1p,2to9,숏,손실 중위값,1.6694
+p,Under20p,moreN,same,over1p,2to9,양방향,양쪽 다 털기,39.1826
+p,Under20p,moreN,same,over1p,2to9,양방향,양쪽 부분 털기,3.8122
+p,Under20p,moreN,same,over1p,2to9,양방향,횡보,4.7383
+p,Under20p,moreN,same,over1p,2to9,양방향,한쪽 박살,38.4073
+p,Under20p,moreN,same,over1p,2to9,롱,완전 익절,59.8858
+p,Under20p,moreN,same,over1p,2to9,롱,부분 익절,2.7461
+p,Under20p,moreN,same,over1p,2to9,롱,손실 전체,37.3681
+p,Under20p,moreN,same,over1p,2to9,롱,익절선보다 큰 손실,26.3677
+p,Under20p,moreN,same,over1p,2to9,롱,손실 평균,-4.1014
+p,Under20p,moreN,same,over1p,2to9,롱,손실 중위값,-3.235
+p,Under20p,moreN,same,over1p,2to9,숏,완전 익절,74.5585
+p,Under20p,moreN,same,over1p,2to9,숏,부분 익절,5.3575
+p,Under20p,moreN,same,over1p,2to9,숏,손실 전체,20.084
+p,Under20p,moreN,same,over1p,2to9,숏,익절선보다 큰 손실,12.0396
+p,Under20p,moreN,same,over1p,2to9,숏,손실 평균,4.8472
+p,Under20p,moreN,same,over1p,2to9,숏,손실 중위값,2.6467
+p,Under20p,moreP,diff,under1p,2to9,양방향,양쪽 다 털기,14.4774
+p,Under20p,moreP,diff,under1p,2to9,양방향,양쪽 부분 털기,4.8903
+p,Under20p,moreP,diff,under1p,2to9,양방향,횡보,22.5432
+p,Under20p,moreP,diff,under1p,2to9,양방향,한쪽 박살,34.0979
+p,Under20p,moreP,diff,under1p,2to9,롱,완전 익절,43.1539
+p,Under20p,moreP,diff,under1p,2to9,롱,부분 익절,9.1666
+p,Under20p,moreP,diff,under1p,2to9,롱,손실 전체,47.6795
+p,Under20p,moreP,diff,under1p,2to9,롱,익절선보다 큰 손실,20.3043
+p,Under20p,moreP,diff,under1p,2to9,롱,손실 평균,-2.1232
+p,Under20p,moreP,diff,under1p,2to9,롱,손실 중위값,-1.6662
+p,Under20p,moreP,diff,under1p,2to9,숏,완전 익절,48.7803
+p,Under20p,moreP,diff,under1p,2to9,숏,부분 익절,16.1234
+p,Under20p,moreP,diff,under1p,2to9,숏,손실 전체,35.0962
+p,Under20p,moreP,diff,under1p,2to9,숏,익절선보다 큰 손실,13.7936
+p,Under20p,moreP,diff,under1p,2to9,숏,손실 평균,2.3948
+p,Under20p,moreP,diff,under1p,2to9,숏,손실 중위값,1.4082
+p,Under20p,moreP,diff,over1p,2to9,양방향,양쪽 다 털기,27.0018
+p,Under20p,moreP,diff,over1p,2to9,양방향,양쪽 부분 털기,4.6622
+p,Under20p,moreP,diff,over1p,2to9,양방향,횡보,9.9241
+p,Under20p,moreP,diff,over1p,2to9,양방향,한쪽 박살,37.9063
+p,Under20p,moreP,diff,over1p,2to9,롱,완전 익절,54.1374
+p,Under20p,moreP,diff,over1p,2to9,롱,부분 익절,5.9886
+p,Under20p,moreP,diff,over1p,2to9,롱,손실 전체,39.874
+p,Under20p,moreP,diff,over1p,2to9,롱,익절선보다 큰 손실,22.9901
+p,Under20p,moreP,diff,over1p,2to9,롱,손실 평균,-3.1115
+p,Under20p,moreP,diff,over1p,2to9,롱,손실 중위값,-2.3461
+p,Under20p,moreP,diff,over1p,2to9,숏,완전 익절,62.9403
+p,Under20p,moreP,diff,over1p,2to9,숏,부분 익절,7.6726
+p,Under20p,moreP,diff,over1p,2to9,숏,손실 전체,29.3871
+p,Under20p,moreP,diff,over1p,2to9,숏,익절선보다 큰 손실,14.9161
+p,Under20p,moreP,diff,over1p,2to9,숏,손실 평균,3.3498
+p,Under20p,moreP,diff,over1p,2to9,숏,손실 중위값,2.0364
+p,Under20p,moreP,same,under1p,2to9,양방향,양쪽 다 털기,15.9166
+p,Under20p,moreP,same,under1p,2to9,양방향,양쪽 부분 털기,5.4414
+p,Under20p,moreP,same,under1p,2to9,양방향,횡보,22.2742
+p,Under20p,moreP,same,under1p,2to9,양방향,한쪽 박살,33.8271
+p,Under20p,moreP,same,under1p,2to9,롱,완전 익절,43.7585
+p,Under20p,moreP,same,under1p,2to9,롱,부분 익절,8.9082
+p,Under20p,moreP,same,under1p,2to9,롱,손실 전체,47.3333
+p,Under20p,moreP,same,under1p,2to9,롱,익절선보다 큰 손실,20.3637
+p,Under20p,moreP,same,under1p,2to9,롱,손실 평균,-2.2218
+p,Under20p,moreP,same,under1p,2to9,롱,손실 중위값,-1.6978
+p,Under20p,moreP,same,under1p,2to9,숏,완전 익절,49.8839
+p,Under20p,moreP,same,under1p,2to9,숏,부분 익절,17.0265
+p,Under20p,moreP,same,under1p,2to9,숏,손실 전체,33.0897
+p,Under20p,moreP,same,under1p,2to9,숏,익절선보다 큰 손실,13.4634
+p,Under20p,moreP,same,under1p,2to9,숏,손실 평균,2.6912
+p,Under20p,moreP,same,under1p,2to9,숏,손실 중위값,1.5213
+p,Under20p,moreP,same,over1p,2to9,양방향,양쪽 다 털기,32.5765
+p,Under20p,moreP,same,over1p,2to9,양방향,양쪽 부분 털기,4.3653
+p,Under20p,moreP,same,over1p,2to9,양방향,횡보,6.9542
+p,Under20p,moreP,same,over1p,2to9,양방향,한쪽 박살,38.4349
+p,Under20p,moreP,same,over1p,2to9,롱,완전 익절,57.3485
+p,Under20p,moreP,same,over1p,2to9,롱,부분 익절,3.884
+p,Under20p,moreP,same,over1p,2to9,롱,손실 전체,38.7674
+p,Under20p,moreP,same,over1p,2to9,롱,익절선보다 큰 손실,24.7285
+p,Under20p,moreP,same,over1p,2to9,롱,손실 평균,-3.4593
+p,Under20p,moreP,same,over1p,2to9,롱,손실 중위값,-2.7106
+p,Under20p,moreP,same,over1p,2to9,숏,완전 익절,68.2738
+p,Under20p,moreP,same,over1p,2to9,숏,부분 익절,6.8336
+p,Under20p,moreP,same,over1p,2to9,숏,손실 전체,24.8927
+p,Under20p,moreP,same,over1p,2to9,숏,익절선보다 큰 손실,13.7064
+p,Under20p,moreP,same,over1p,2to9,숏,손실 평균,4.0457
+p,Under20p,moreP,same,over1p,2to9,숏,손실 중위값,2.2715
+p,Over20p,moreN,diff,under1p,2to9,양방향,양쪽 다 털기,30.2083
+p,Over20p,moreN,diff,under1p,2to9,양방향,양쪽 부분 털기,5.2083
+p,Over20p,moreN,diff,under1p,2to9,양방향,횡보,4.1667
+p,Over20p,moreN,diff,under1p,2to9,양방향,한쪽 박살,43.75
+p,Over20p,moreN,diff,under1p,2to9,롱,완전 익절,62.5
+p,Over20p,moreN,diff,under1p,2to9,롱,부분 익절,6.25
+p,Over20p,moreN,diff,under1p,2to9,롱,손실 전체,31.25
+p,Over20p,moreN,diff,under1p,2to9,롱,익절선보다 큰 손실,20.8333
+p,Over20p,moreN,diff,under1p,2to9,롱,손실 평균,-4.6374
+p,Over20p,moreN,diff,under1p,2to9,롱,손실 중위값,-4.1877
+p,Over20p,moreN,diff,under1p,2to9,숏,완전 익절,63.5417
+p,Over20p,moreN,diff,under1p,2to9,숏,부분 익절,3.125
+p,Over20p,moreN,diff,under1p,2to9,숏,손실 전체,33.3333
+p,Over20p,moreN,diff,under1p,2to9,숏,익절선보다 큰 손실,22.9167
+p,Over20p,moreN,diff,under1p,2to9,숏,손실 평균,5.0707
+p,Over20p,moreN,diff,under1p,2to9,숏,손실 중위값,4.1419
+p,Over20p,moreN,diff,over1p,2to9,양방향,양쪽 다 털기,51.1706
+p,Over20p,moreN,diff,over1p,2to9,양방향,양쪽 부분 털기,1.6722
+p,Over20p,moreN,diff,over1p,2to9,양방향,횡보,2.0067
+p,Over20p,moreN,diff,over1p,2to9,양방향,한쪽 박살,37.4582
+p,Over20p,moreN,diff,over1p,2to9,롱,완전 익절,86.6221
+p,Over20p,moreN,diff,over1p,2to9,롱,부분 익절,2.0067
+p,Over20p,moreN,diff,over1p,2to9,롱,손실 전체,11.3712
+p,Over20p,moreN,diff,over1p,2to9,롱,익절선보다 큰 손실,6.3545
+p,Over20p,moreN,diff,over1p,2to9,롱,손실 평균,-3.9271
+p,Over20p,moreN,diff,over1p,2to9,롱,손실 중위값,-2.5839
+p,Over20p,moreN,diff,over1p,2to9,숏,완전 익절,62.5418
+p,Over20p,moreN,diff,over1p,2to9,숏,부분 익절,1.0033
+p,Over20p,moreN,diff,over1p,2to9,숏,손실 전체,36.4548
+p,Over20p,moreN,diff,over1p,2to9,숏,익절선보다 큰 손실,31.1037
+p,Over20p,moreN,diff,over1p,2to9,숏,손실 평균,8.5337
+p,Over20p,moreN,diff,over1p,2to9,숏,손실 중위값,7.0391
+p,Over20p,moreN,same,under1p,2to9,양방향,양쪽 다 털기,34.8485
+p,Over20p,moreN,same,under1p,2to9,양방향,양쪽 부분 털기,4.5455
+p,Over20p,moreN,same,under1p,2to9,양방향,횡보,7.5758
+p,Over20p,moreN,same,under1p,2to9,양방향,한쪽 박살,36.3636
+p,Over20p,moreN,same,under1p,2to9,롱,완전 익절,65.1515
+p,Over20p,moreN,same,under1p,2to9,롱,부분 익절,7.5758
+p,Over20p,moreN,same,under1p,2to9,롱,손실 전체,27.2727
+p,Over20p,moreN,same,under1p,2to9,롱,익절선보다 큰 손실,19.697
+p,Over20p,moreN,same,under1p,2to9,롱,손실 평균,-3.3715
+p,Over20p,moreN,same,under1p,2to9,롱,손실 중위값,-3.2141
+p,Over20p,moreN,same,under1p,2to9,숏,완전 익절,62.1212
+p,Over20p,moreN,same,under1p,2to9,숏,부분 익절,4.5455
+p,Over20p,moreN,same,under1p,2to9,숏,손실 전체,33.3333
+p,Over20p,moreN,same,under1p,2to9,숏,익절선보다 큰 손실,16.6667
+p,Over20p,moreN,same,under1p,2to9,숏,손실 평균,3.7888
+p,Over20p,moreN,same,under1p,2to9,숏,손실 중위값,1.9981
+p,Over20p,moreN,same,over1p,2to9,양방향,양쪽 다 털기,50.6726
+p,Over20p,moreN,same,over1p,2to9,양방향,양쪽 부분 털기,2.2422
+p,Over20p,moreN,same,over1p,2to9,양방향,횡보,0.8969
+p,Over20p,moreN,same,over1p,2to9,양방향,한쪽 박살,39.0135
+p,Over20p,moreN,same,over1p,2to9,롱,완전 익절,76.2332
+p,Over20p,moreN,same,over1p,2to9,롱,부분 익절,1.7937
+p,Over20p,moreN,same,over1p,2to9,롱,손실 전체,21.9731
+p,Over20p,moreN,same,over1p,2to9,롱,익절선보다 큰 손실,17.0404
+p,Over20p,moreN,same,over1p,2to9,롱,손실 평균,-5.1897
+p,Over20p,moreN,same,over1p,2to9,롱,손실 중위값,-3.6396
+p,Over20p,moreN,same,over1p,2to9,숏,완전 익절,73.5426
+p,Over20p,moreN,same,over1p,2to9,숏,부분 익절,1.3453
+p,Over20p,moreN,same,over1p,2to9,숏,손실 전체,25.1121
+p,Over20p,moreN,same,over1p,2to9,숏,익절선보다 큰 손실,21.9731
+p,Over20p,moreN,same,over1p,2to9,숏,손실 평균,7.8918
+p,Over20p,moreN,same,over1p,2to9,숏,손실 중위값,5.4141
+p,Over20p,moreP,diff,under1p,2to9,양방향,양쪽 다 털기,12.2128
+p,Over20p,moreP,diff,under1p,2to9,양방향,양쪽 부분 털기,5.4685
+p,Over20p,moreP,diff,under1p,2to9,양방향,횡보,23.0528
+p,Over20p,moreP,diff,under1p,2to9,양방향,한쪽 박살,34.1092
+p,Over20p,moreP,diff,under1p,2to9,롱,완전 익절,50.3656
+p,Over20p,moreP,diff,under1p,2to9,롱,부분 익절,13.0036
+p,Over20p,moreP,diff,under1p,2to9,롱,손실 전체,36.6309
+p,Over20p,moreP,diff,under1p,2to9,롱,익절선보다 큰 손실,12.2725
+p,Over20p,moreP,diff,under1p,2to9,롱,손실 평균,-1.7778
+p,Over20p,moreP,diff,under1p,2to9,롱,손실 중위값,-1.2546
+p,Over20p,moreP,diff,under1p,2to9,숏,완전 익절,38.7944
+p,Over20p,moreP,diff,under1p,2to9,숏,부분 익절,13.2796
+p,Over20p,moreP,diff,under1p,2to9,숏,손실 전체,47.926
+p,Over20p,moreP,diff,under1p,2to9,숏,익절선보다 큰 손실,21.8368
+p,Over20p,moreP,diff,under1p,2to9,숏,손실 평균,2.2966
+p,Over20p,moreP,diff,under1p,2to9,숏,손실 중위값,1.824
+p,Over20p,moreP,diff,over1p,2to9,양방향,양쪽 다 털기,24.6123
+p,Over20p,moreP,diff,over1p,2to9,양방향,양쪽 부분 털기,4.9538
+p,Over20p,moreP,diff,over1p,2to9,양방향,횡보,14.002
+p,Over20p,moreP,diff,over1p,2to9,양방향,한쪽 박살,36.7501
+p,Over20p,moreP,diff,over1p,2to9,롱,완전 익절,63.1221
+p,Over20p,moreP,diff,over1p,2to9,롱,부분 익절,10.0064
+p,Over20p,moreP,diff,over1p,2to9,롱,손실 전체,26.8715
+p,Over20p,moreP,diff,over1p,2to9,롱,익절선보다 큰 손실,10.9937
+p,Over20p,moreP,diff,over1p,2to9,롱,손실 평균,-2.4299
+p,Over20p,moreP,diff,over1p,2to9,롱,손실 중위값,-1.5905
+p,Over20p,moreP,diff,over1p,2to9,숏,완전 익절,47.4882
+p,Over20p,moreP,diff,over1p,2to9,숏,부분 익절,7.7821
+p,Over20p,moreP,diff,over1p,2to9,숏,손실 전체,44.7297
+p,Over20p,moreP,diff,over1p,2to9,숏,익절선보다 큰 손실,25.7564
+p,Over20p,moreP,diff,over1p,2to9,숏,손실 평균,3.2747
+p,Over20p,moreP,diff,over1p,2to9,숏,손실 중위값,2.4278
+p,Over20p,moreP,same,under1p,2to9,양방향,양쪽 다 털기,12.1411
+p,Over20p,moreP,same,under1p,2to9,양방향,양쪽 부분 털기,4.8367
+p,Over20p,moreP,same,under1p,2to9,양방향,횡보,27.4318
+p,Over20p,moreP,same,under1p,2to9,양방향,한쪽 박살,29.3431
+p,Over20p,moreP,same,under1p,2to9,롱,완전 익절,46.4106
+p,Over20p,moreP,same,under1p,2to9,롱,부분 익절,15.6497
+p,Over20p,moreP,same,under1p,2to9,롱,손실 전체,37.9397
+p,Over20p,moreP,same,under1p,2to9,롱,익절선보다 큰 손실,10.0592
+p,Over20p,moreP,same,under1p,2to9,롱,손실 평균,-1.6475
+p,Over20p,moreP,same,under1p,2to9,롱,손실 중위값,-1.0492
+p,Over20p,moreP,same,under1p,2to9,숏,완전 익절,38.2986
+p,Over20p,moreP,same,under1p,2to9,숏,부분 익절,14.1062
+p,Over20p,moreP,same,under1p,2to9,숏,손실 전체,47.5951
+p,Over20p,moreP,same,under1p,2to9,숏,익절선보다 큰 손실,19.2839
+p,Over20p,moreP,same,under1p,2to9,숏,손실 평균,2.203
+p,Over20p,moreP,same,under1p,2to9,숏,손실 중위값,1.5591
+p,Over20p,moreP,same,over1p,2to9,양방향,양쪽 다 털기,31.232
+p,Over20p,moreP,same,over1p,2to9,양방향,양쪽 부분 털기,5.4512
+p,Over20p,moreP,same,over1p,2to9,양방향,횡보,7.3758
+p,Over20p,moreP,same,over1p,2to9,양방향,한쪽 박살,35.888
+p,Over20p,moreP,same,over1p,2to9,롱,완전 익절,67.9037
+p,Over20p,moreP,same,over1p,2to9,롱,부분 익절,6.9609
+p,Over20p,moreP,same,over1p,2to9,롱,손실 전체,25.1354
+p,Over20p,moreP,same,over1p,2to9,롱,익절선보다 큰 손실,10.8563
+p,Over20p,moreP,same,over1p,2to9,롱,손실 평균,-2.7848
+p,Over20p,moreP,same,over1p,2to9,롱,손실 중위값,-1.6479
+p,Over20p,moreP,same,over1p,2to9,숏,완전 익절,55.9525
+p,Over20p,moreP,same,over1p,2to9,숏,부분 익절,5.0709
+p,Over20p,moreP,same,over1p,2to9,숏,손실 전체,38.9766
+p,Over20p,moreP,same,over1p,2to9,숏,익절선보다 큰 손실,25.0317
+p,Over20p,moreP,same,over1p,2to9,숏,손실 평균,3.6362
+p,Over20p,moreP,same,over1p,2to9,숏,손실 중위값,2.8056
