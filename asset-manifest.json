@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI_trader/static/css/main.5439c706.css",
+    "main.js": "/AI_trader/static/js/main.71dd147e.js",
+    "index.html": "/AI_trader/index.html",
+    "main.5439c706.css.map": "/AI_trader/static/css/main.5439c706.css.map",
+    "main.71dd147e.js.map": "/AI_trader/static/js/main.71dd147e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5439c706.css",
+    "static/js/main.71dd147e.js"
+  ]
+}
